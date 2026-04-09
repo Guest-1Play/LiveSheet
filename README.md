@@ -1,5 +1,5 @@
 # LiveSheet
-A new lanuage for web. inspired by Live Tile by Microsoft.
+A new language for web. inspired by Live Tile by Microsoft.
 
 -----
 
